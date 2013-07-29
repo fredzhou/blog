@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://fredzhou.github.io//github/atom.xml" rel="self"/>
+  <link href="http://fredzhou.github.io//github/"/>
+  <updated>2013-07-29T15:10:26+08:00</updated>
+  <id>http://fredzhou.github.io//github/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Blog]]></title>
+    <link href="http://fredzhou.github.io//github/blog/2013/07/29/first-blog/"/>
+    <updated>2013-07-29T00:00:00+08:00</updated>
+    <id>http://fredzhou.github.io//github/blog/2013/07/29/first-blog</id>
+    <content type="html"><![CDATA[<p>Hi,</p>
+
+<p>This is <em>first</em> blog, which is to make things going throug.</p>
+
+<p>BR,
+Fred</p>
+]]></content>
+  </entry>
+  
+</feed>
